@@ -2,12 +2,8 @@
 
 **Languages: Python**
 
-Mental health is a matter of concern, with technological advances and the greater dependence of human beings on the digital environment, it is 
-increasingly necessary to include and monitor how the mental health of those involved in this environment is doing. In 2020, a world population 
-was impacted by COVID-19 which has overwhelmingly changed the way we interact interpersonally. The Home Office work environment increased on scales 
-that only a pandemic could provide, restricting contact with other people and forcing the mind to adapt to this new scenario where work moved to
-home, and personal life was temporarily confiscated.
+The growing demand of the brazilian population for credit is a reason of study in many companies that deal with electronic ways of payment. It is very valuable for these companies to be able to develop a model wich can reflect some predictive power about this demand. That way these organizations can strategically plan for what is to come, or adopt innovation measures, among others. Seeking to understand how other variables can contribute to the prediction of credit is the objective of this work. Economic scholars see a correlation between the IPCA and unemployment as influencers on credit demand, especially on the brazilian low-income population. Once a certain person achieves a standard of living, they will seek to maintain it, even if it means obtaining more credit. Therefore, it is necessary to understand how econometric variables such as IPCA, unemployment rate and average income, can influence the predictive behavior of the model. The impact of COVID-19 brought difficulty in predicting credit for the years after 2020, reflecting an increase in the random residual and a change in the spending peaks observed in the decomposition of the series. This raised the question about the change in behavior of the brazilian population after the pandemic, however, through machine learning techniques it was possible to investigate and prepare the database to conjecture a model based on a univariate time series with the credit series that presents a positive predictive effect, serving as a reference for the comparison of multivariable models. The multivariable models were not significantly better than the univariable models, however, it was possible to identify a progressive improvement in the construction of a model with credit and average income, followed by a model with credit, average income and IPCA, respectively. The latter achieved the best experimental result among all, proving that the use of econometric variables can bring some benefit to the work, as long as they are cross-analyzed.
 
-**Thanks: ABECS for has disponibilysed the survey data and to be this great organization worried with mental's people health.**
+**Thanks: ABECS for has disponibilysed the data and contribute to ressearch on this area.**
 
-**website: https://osmihelp.org/research**
+**website: https://abecs.org.br/**
